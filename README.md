@@ -29,10 +29,16 @@
 ## 🌟 Screenshots
 
 ### Settings & Customization
+<div align="center">
+  <img src="https://github.com/SiegoZhang/sleepnow.github.io/blob/main/images/screenshot-2.png?raw=true" alt="Sleep Now Settings" width="300">
+</div>
 
 *Configure your perfect sleep schedule with custom time ranges and select which apps to block during sleep hours. Choose specific days of the week for maximum flexibility.*
 
 ### Dynamic Color Experience
+<div align="center">
+  <img src="https://github.com/SiegoZhang/sleepnow.github.io/blob/main/images/screenshot-1.png?raw=true" alt="Sleep Now Main Screen" width="300">
+</div>
 
 *Experience beautiful colors that flow with time - from deep midnight blues to warm evening purples, creating the perfect ambiance for better sleep.*
 
