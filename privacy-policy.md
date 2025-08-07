@@ -29,8 +29,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 If you have questions about this Privacy Policy, please contact us at:
-- Email: [your-email@example.com]
-- GitHub: https://github.com/SiegoZhang/sleep_now
+- Email: sage.xige.zhang@gmail.com
 
 ## Apple Family Controls
 Sleep Now uses Apple's Family Controls framework to block apps during scheduled sleep hours. This framework operates with Apple's built-in privacy protections and does not share data with our app beyond what is necessary for blocking functionality.
